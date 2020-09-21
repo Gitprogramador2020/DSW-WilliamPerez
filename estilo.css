@@ -1,0 +1,37 @@
+# DSW-WilliamPerez
+@charset "utf-8";
+/* CSS Document */
+html{
+	background-color:#36F;
+}
+body{
+background: #13B4B9;
+}
+#centrado{
+text-align:center;
+}
+
+
+#datos{
+margin-top: 4%;
+padding-top: 2px;
+padding-bottom: 5px;
+margin-left: 15%;
+background: rgba(169, 225, 225);
+width: 80%;
+border-radius: 5%;
+}
+thead{
+	text-align:center;
+	background-color:#3F9;
+}
+table .azul{
+	background-color:#9FF;
+	border-collapse:collapse;
+}
+table .rosa{
+	background-color:#F9F;
+}
+table{
+	margin: auto;
+}
